@@ -1,0 +1,9 @@
+username,email,mfa_enabled,password_age_days,sensitivity,known_exposure
+jsmith,jsmith@example.com,false,410,critical,true
+mchen,mchen@example.com,true,95,high,false
+rpatel,rpatel@example.com,false,220,medium,false
+dkim,dkim@example.com,true,540,low,false
+avargas,avargas@example.com,false,60,high,true
+tnguyen,tnguyen@example.com,true,30,critical,false
+service-etl,service-etl@example.com,false,730,critical,true
+bwilliams,bwilliams@example.com,true,150,medium,false
